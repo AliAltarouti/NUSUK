@@ -1,0 +1,100 @@
+*{
+    background: #626552;
+}
+
+body {
+    width: 40%;
+    margin: auto;
+  }
+
+
+
+.logo{
+    height: 150px;
+    width: 150px;
+    margin: 0 180px;
+}
+
+.hot {
+    text-align: end;
+
+}
+.menu {
+    color:blanchedalmond;
+
+}
+
+.list {
+    color: #D8D6C9;
+}
+
+.price {
+    margin: 0 50px 0 0;
+}
+
+.hr {
+    width: 220px;
+    margin: 0 0 0 270px;
+}
+
+.bakery{
+    width: 250px;
+    text-align: start;
+    position: absolute;
+    margin: 50px 0 0 0;
+    background: none;
+}
+.cold {
+    text-align: end;
+}
+
+.bg {
+    text-align: start;
+    position: absolute;
+    background: rgb(212, 183, 183);
+    margin: 0 20px 20px 0;
+
+}
+.end {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 22px;
+    text-align: center;
+    color: #D8D6C9;
+}
+
+.as {
+    width: 250px;
+    text-align: start;
+    position: absolute;
+    background: #516153;
+    border-radius: 30px;
+    color: #D8D6C9;
+    margin: 50px 0 0 0;
+}
+
+.ul {
+    font-family:'Courier New', Courier, monospace;
+    list-style-type: none;
+    background: none;
+    margin-right: 40px;
+}
+
+.li1 {
+    background-color: #4a5a4070;
+}
+.li2 {
+    background-color: #556450;
+}
+.li3 {
+    background-color: #4a5a4070;
+}
+.li4 {
+    background-color: #556450;
+}
+
+.icon {
+    width: 40%;
+    position: absolute;
+    opacity: 0.25;
+    margin: 245px 0 0 90px;
+}
